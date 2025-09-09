@@ -108,10 +108,11 @@ The objective is to build an efficient, accurate model to forecast **weekly sale
 
 ```
 📦 demand-forecasting-retail
-├── 📁 data                 # Raw and processed data
-├── 📁 notebooks            # Jupyter notebooks for EDA and model training
-├── 📁 models               # Trained model files (optional)
-├── 📁 results              # Plots, forecasts, and reports
+├── 📁 Data                 # Raw and processed data
+├── 📁 Exras                # Jupyter notebooks screenshots for clarifications and tuning methods
+├── 📁 Models               # Trained model files
+├── 📁 Results              # Plots, forecasts, and reports
+├── 📄 Demand_Forecasting.pptx
 ├── 📄 Demand_Forecasting_Report.pdf
 └── 📄 README.md            # You're here!
 ```
