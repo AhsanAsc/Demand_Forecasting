@@ -132,7 +132,7 @@ The objective is to build an efficient, accurate model to forecast **weekly sale
 **Ahsanullah MRM**  
 ML Engineer | AI Enthusiast | Data-Driven Innovator  
 📍 Dubai | 🌐 Open to Collaborations  
-📧 [Connect on LinkedIn]([https://linkedin.com/in/ahsanullahmrm](https://www.linkedin.com/in/ahsanullah-mrm-3623789b/))
+📧 [Connect on LinkedIn](https://www.linkedin.com/in/ahsanullah-mrm-3623789b/)
 
 ---
 
