@@ -2,7 +2,7 @@
 # 🧠 Demand Forecasting for Retail Chains 🛒  
 *Accurately predicting future sales using advanced machine learning models*
 
-![Retail Forecasting Banner]([https://img.freepik.com/free-vector/isometric-warehouse-concept_1284-23061](https://www.freepik.com/free-photo/finger-pressing-digital-graphic_928695.htm#fromView=search&page=1&position=2&uuid=8eb83393-10ef-4b3a-8c74-764992ed36a8&query=demand+forecasting).jpg)  
+![Retail Forecasting Banner](https://ibb.co/Z18Rx3h1)  
 <sub>Image by Freepik</sub>
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
